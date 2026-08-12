@@ -63,8 +63,8 @@ image GUIDs. Published files carry no metadata of any kind.
 `Timestamp`, `Email Address`, name, and enrolled-course columns were dropped and rows were
 shuffled so that row order does not recover submission order. The years-of-experience question
 was free text and several answers named the respondent's degree programme or gave dates; it has
-been replaced by a parsed numeric column, `years_since_first_design_project`, with two
-non-numeric answers left blank.
+been replaced by a numeric column, `years_since_first_design_project`; two non-numeric answers
+were coded by the authors.
 
 ## Image processing
 
