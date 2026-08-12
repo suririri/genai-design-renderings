@@ -11,11 +11,11 @@ and every file in this repository is named so that it maps directly onto a row o
 | Folder | Tool | Files |
 |---|---|---|
 | `images/01_source_model/` | 3D model viewport captures, one per camera view | 15 |
-| `images/03_sketchup_diffusion/` | SketchUp Diffusion (Appendix 3.1) | 75 |
-| `images/04_midjourney/` | Midjourney (Appendix 3.2) | 75 |
-| `images/05_stable_diffusion/` | Stable Diffusion (Appendix 3.3) | 75 |
-| `images/06_lora/` | Stable Diffusion with a fine-tuned LoRA model (Appendix 3.4) | 75 |
-| `images/07_gpt4o/` | GPT-4o (Appendix 3.5) | 75 |
+| `images/03_sketchup_diffusion/` | SketchUp Diffusion (Appendix C.1) | 75 |
+| `images/04_midjourney/` | Midjourney (Appendix C.2) | 75 |
+| `images/05_stable_diffusion/` | Stable Diffusion (Appendix C.3) | 75 |
+| `images/06_lora/` | Stable Diffusion with a fine-tuned LoRA model (Appendix C.4) | 75 |
+| `images/07_gpt4o/` | GPT-4o (Appendix C.5) | 75 |
 
 Total: **375** AI-generated images.
 
@@ -27,7 +27,7 @@ Total: **375** AI-generated images.
 The five themes are the five site briefs used in Study 1, and they are the same labels used in
 Appendix 3:
 
-| Folder prefix | Appendix 3 theme |
+| Folder prefix | Appendix C theme |
 |---|---|
 | `wetland-park` | Wetland park |
 | `urban-riverfront` | Urban riverfront district |
