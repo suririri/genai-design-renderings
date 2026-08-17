@@ -1,4 +1,4 @@
-# AI-generated design renderings — Study 1 image set
+# AI-generated design renderings — Study 1 AI image Generation
 
 Supporting images for the manuscript *AI-generated Images in Design Education: Performance,
 Perception, and Cognitive and Visual Mechanisms*.
