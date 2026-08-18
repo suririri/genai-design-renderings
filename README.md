@@ -44,7 +44,6 @@ images belonging to the documented design are included.
 ## Image processing
 
 JPEG, quality 92, 4:4:4 chroma, longest side capped at 1920 px; smaller originals were not
-upscaled. `manifest.csv` records the theme, tool, appendix image ID, original filename, and both
-original and published pixel dimensions for every file. These are derived files for browsing and
-reference; lossless originals are not in this repository.
+upscaled. These are derived files for browsing and reference; lossless originals are not in this
+repository.
 
