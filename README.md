@@ -10,12 +10,12 @@ and every file in this repository is named so that it maps directly onto a row o
 
 | Folder | Tool | Files |
 |---|---|---|
-| `images/01_source_model/` | 3D model viewport captures, one per camera view | 15 |
-| `images/03_sketchup_diffusion/` | SketchUp Diffusion (Appendix C.1) | 75 |
-| `images/04_midjourney/` | Midjourney (Appendix C.2) | 75 |
-| `images/05_stable_diffusion/` | Stable Diffusion (Appendix C.3) | 75 |
-| `images/06_lora/` | Stable Diffusion with a fine-tuned LoRA model (Appendix C.4) | 75 |
-| `images/07_gpt4o/` | GPT-4o (Appendix C.5) | 75 |
+| `Study 1 AI Image Generation/01_source_model/` | 3D model viewport captures, one per camera view | 15 |
+| `Study 1 AI Image Generation/03_sketchup_diffusion/` | SketchUp Diffusion (Appendix C.1) | 75 |
+| `Study 1 AI Image Generation/04_midjourney/` | Midjourney (Appendix C.2) | 75 |
+| `Study 1 AI Image Generation/05_stable_diffusion/` | Stable Diffusion (Appendix C.3) | 75 |
+| `Study 1 AI Image Generation/06_lora/` | Stable Diffusion with a fine-tuned LoRA model (Appendix C.4) | 75 |
+| `Study 1 AI Image Generation/07_gpt4o/` | GPT-4o (Appendix C.5) | 75 |
 
 Total: **375** AI-generated images.
 
