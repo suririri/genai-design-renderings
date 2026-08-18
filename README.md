@@ -3,8 +3,8 @@
 Supporting images for the manuscript *AI-generated Images in Design Education: Performance,
 Perception, and Cognitive and Visual Mechanisms*.
 
-Prompts are **not** reproduced here. They are given in full in **Appendix 3** of the manuscript,
-and every file in this repository is named so that it maps directly onto a row of that appendix.
+The prompts are in **`Study 1 AI Image Generation/Prompts.docx`**, the same appendix that appears in
+the manuscript, and every file in this repository is named so that it maps directly onto a row of it.
 
 ## Contents
 
