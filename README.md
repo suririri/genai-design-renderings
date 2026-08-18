@@ -3,19 +3,19 @@
 Supporting images for the manuscript *AI-generated Images in Design Education: Performance,
 Perception, and Cognitive and Visual Mechanisms*.
 
-The prompts are in **`Study 1 AI Image Generation/Prompts.docx`**, the same appendix that appears in
-the manuscript, and every file in this repository is named so that it maps directly onto a row of it.
+The prompts are in **`Study 1 AI Image Generation/Prompts.docx`**, and every image file is named so
+that it maps directly onto a row of that table.
 
 ## Contents
 
 | Folder | Tool | Files |
 |---|---|---|
 | `Study 1 AI Image Generation/01_source_model/` | 3D model viewport captures, one per camera view | 15 |
-| `Study 1 AI Image Generation/03_sketchup_diffusion/` | SketchUp Diffusion (Appendix C.1) | 75 |
-| `Study 1 AI Image Generation/04_midjourney/` | Midjourney (Appendix C.2) | 75 |
-| `Study 1 AI Image Generation/05_stable_diffusion/` | Stable Diffusion (Appendix C.3) | 75 |
-| `Study 1 AI Image Generation/06_lora/` | Stable Diffusion with a fine-tuned LoRA model (Appendix C.4) | 75 |
-| `Study 1 AI Image Generation/07_gpt4o/` | GPT-4o (Appendix C.5) | 75 |
+| `Study 1 AI Image Generation/03_sketchup_diffusion/` | SketchUp Diffusion | 75 |
+| `Study 1 AI Image Generation/04_midjourney/` | Midjourney | 75 |
+| `Study 1 AI Image Generation/05_stable_diffusion/` | Stable Diffusion | 75 |
+| `Study 1 AI Image Generation/06_lora/` | Stable Diffusion with a fine-tuned LoRA model | 75 |
+| `Study 1 AI Image Generation/07_gpt4o/` | GPT-4o | 75 |
 
 Total: **375** AI-generated images.
 
@@ -24,10 +24,9 @@ Total: **375** AI-generated images.
     <theme>_<tool>_<camera>_<output>.jpg      e.g.  wetland-park_SUD_1_1.jpg
     <theme>_camera_<n>.jpg                    for the source models
 
-The five themes are the five site briefs used in Study 1, and they are the same labels used in
-Appendix 3:
+The five themes are the five site briefs used in Study 1:
 
-| Folder prefix | Appendix C theme |
+| Folder prefix | Theme |
 |---|---|
 | `wetland-park` | Wetland park |
 | `urban-riverfront` | Urban riverfront district |
